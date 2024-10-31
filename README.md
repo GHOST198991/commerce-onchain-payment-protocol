@@ -13,7 +13,7 @@ As of July 31, 2024, the Commerce Onchain Payment Protocol is deployed in the fo
 
 | Chain    | Environment     | Address                                      |
 | -------- | --------------- | -------------------------------------------- |
-| Ethereum | Mainnet         | `0x1DAe28D7007703196d6f456e810F67C33b51b25C` |
+| Ethereum | Mainnet         | `` |
 | Ethereum | Sepolia Testnet | `0x96A08D8e8631b6dB52Ea0cbd7232d9A85d239147` |
 | Polygon  | Mainnet         | `0xc2252Ce3348B8dAf90583E53e07Be53d3aE728FB` |
 | Polygon  | Amoy Testnet    | `0x1A8f790a10D26bAd97dB8Da887D212eA49461cCC` |
